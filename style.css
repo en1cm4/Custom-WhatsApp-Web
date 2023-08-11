@@ -1,0 +1,294 @@
+
+.dark{
+    --panel-header-background: rgba(16,26,32,0.41) ;
+}
+.f6ipylw5, ._3E8Fg, ._3E8Fg, .zesXe, .pONLD {
+    background-color: transparent !important;
+}
+
+._2lSWV,  ._18AL_{
+    background-color: rgba(16,26,32,0.41) !important;
+}
+
+
+/* Correccion del problema lateral de scroll */
+._1jJ70{
+    min-width: 0;
+}
+
+body{
+    background-image: url("https://i.imgur.com/JeBAf1n.jpg") !important;
+    background-size: cover !important;
+}
+html[dir] .zaKsw {
+    background-color: #222e357d !important;
+}
+
+
+[data-asset-chat-background-dark]{
+    background-image: none;
+}
+
+/* Color en general */
+html[dir] ._2Ex_b {
+    background-color: transparent !important;
+}
+
+/* Color del header */
+html[dir] ._23P3O{
+    background-color: transparent !important
+}
+
+/* Focus chat lateral */
+
+html[dir] ._3j691:focus, html[dir] ._3j691:hover {
+    background-color: rgba(16,26,32,0.27) !important;
+}
+
+html[dir] body.dark {
+    background-color: transparent !important;
+}
+
+/* Color del chat */
+html[dir] ._1jJ70 {
+    background-color: rgba(16,26,32,0.27) !important
+}
+
+
+/* Barra de busqueda */
+html[dir] ._3wQ5i {
+    padding: 0 12px;
+    background-color: rgba(16,26,32,0.27) !important
+}
+
+/* Reaccion a mensaje */
+.ilbp7ui4 {
+    background-color: rgba(0,0,0,0.25);
+}
+
+/* Boton ir al ultimo mensaje */
+html[dir] ._25zh0{
+    background-color: rgba(0,0,0,0.25);
+}
+
+/* Contacto */
+
+/* Color de mensajes enviados por el contacto */
+html[dir] .message-in .ItfyB {
+    background-color: rgba(16,26,32,0.47) !important
+}
+/* Color de respuesta  */
+html[dir] .message-in ._1EbXp{
+    background-color: rgba(0,0,0,0.11) !important
+} 
+/*  Sticker de la persona */
+html[dir] .message-in ._334kf ._1zdrl {
+    background-color: rgba(0,0,0,0.11) !important
+}
+
+/* Boton flecha abajo en mensaje */
+html[dir=ltr] ._2T2Kt._1bGUW {
+    background: none;
+}
+
+/* Personal */
+
+
+/* Color de mensaje enviado  */
+html[dir] .message-out .ItfyB {
+    background-color: rgba(0,92,75,0.19) !important
+}
+html[dir] .message-out ._1EbXp {
+    background-color: rgba(2,81,69,0.06) !important
+}
+/* Sticker enviado */
+html[dir] .message-out ._334kf ._1zdrl {
+    background-color: rgba(2,81,69,0.06) !important
+}
+
+
+
+
+/* Barra de amigos */
+html[dir] ._3fGK2 {
+    background-color: rgba(16,26,32,0.27) !important
+}
+
+/* Chat abierto*/
+html[dir] ._199zF._2IMPQ {
+    background-color: rgba(0,0,0,0.19);
+}
+/* Otros chats */
+html[dir] ._199zF {
+    background-color: rgba(17,28,33,0);
+}
+
+
+
+
+/* No tengo idea de que seran estos Xd */
+
+html[dir] ._3gYev {
+    background-color: transparent !important;
+}
+._199zF._2IMPQ:after,  {
+/*     border: none !important|; */
+}
+html[dir] ._199zF._2IMPQ:after{
+    border: none !important
+}
+.ihvf49ua {
+    background-color: transparent !important;
+}
+
+
+
+/* Texto de privacidad */
+.nzcjdldu{
+    display: none !important;
+}
+/* Botom de chats no leidos */
+button.tt8xd2xn.bugiwsl0.mpdn4nr2.fooq7fky div{
+/* errror  */
+    display: none !important;
+}
+/* Espacio sin nada */
+._2GJfO{
+    display: none !important
+}
+
+/* Solo iconos */
+._3RGKj{
+    transition: 0.5s;
+    flex: 0 0 0 !important;
+}
+._3RGKj header{
+/*  Cambia la posicion de la foto de perfil    */
+    display: flex;
+    justify-content: space-between !important;
+    flex-direction: row-reverse !important
+}
+
+._3RGKj header ._3WByx{
+    flex-grow: 0;
+}
+
+/* Top Buttons */
+._3RGKj header ._604FD{
+    transition: 0.5s;
+    position: absolute;
+    transform: translate(-100%);
+    filter: opacity(0);
+}
+
+/*  archivado */
+._3RGKj .k8VZe .g0rxnol2 button ._8nE1Y{
+    transition: 0.8s;
+    opacity(0);
+    display: none !important
+}
+._3RGKj .k8VZe ._3wQ5i ._1EUay{
+    width: 100%;
+}
+
+._3RGKj .k8VZe ._3wQ5i ._1EUay ._2vDPL{
+    width: 100%;
+}
+
+/* Input text */
+.k8VZe{
+    display: flex !important;
+    flex-direction: column-reverse;
+}
+
+/* Ancho disminuido */
+html[dir=ltr] ._2vDPL{
+    padding: 0;
+/*     padding-right: 32px; */ 
+/*      padding-left: 65px; */
+}
+
+._3RGKj:hover{
+    flex: 0 0 40% !important;
+}
+._3RGKj:hover header ._604FD{
+    display: block !important;
+    filter: opacity(1) !important;
+    transform: translatex(-100%) !important;
+}
+._3RGKj:hover .k8VZe .g0rxnol2 button ._8nE1Y{
+    transition: 0.8s;
+    opacity(1) !important;
+    display: flex !important;
+}
+/* span.lhggkp7q.qq0sjtgm.ebjesfe0.jxacihee.tkdu00h0{
+    width: 100%;
+} */
+
+
+
+
+/* Icon Visto, Entregado */
+._2qo4q {
+    position: absolute;
+    left: 10px;
+    background-color: rgb(16 26 32 / 63%);
+    border-radius: 100%;
+    padding: 5px;
+}
+
+._1pJ9J{
+    transform: unset !important;
+}
+.tpmajp1w{
+    position: absolute;
+    left: 10px;
+}
+
+/* .pboYv{ */
+/*     position: absolute !important; */
+/* } */
+
+._16h0X:after {
+    content: '.';
+    position: absolute;
+    padding: 11px 10px;
+    left: -73%;
+    background-color: #000;
+    color: #000;
+    border-radius: 100%;
+    line-height: 0px;
+    animation: typing 1s infinite;
+}
+._16h0X{
+display: unset;
+}
+.vQ0w7{
+overflow: visible
+}
+svg.ln8gz9je.ppled2lx{
+    display: none;
+}
+.lhggkp7q.qq0sjtgm.tkdu00h0.p357zi0d.gndfcl4n.ac2vgrno.ln8gz9je.ppled2lx.bmttxqfw.ban5wmpu{
+    background-image: url('https://i.imgur.com/hJdxpPX.jpg');
+    background-size: 100%;
+    width: 100%;
+    height: 100%;
+    border-radius: 100%;
+}
+
+
+@keyframes typing {
+  from {
+    background-color: rgb(16 26 32 / 63%);
+      color: rgb(16 26 32 / 63%);
+  }
+  50% {
+    background-color: rgb(120 215 182 / 70%);
+      color: rgb(120 215 182 / 70%)
+  }
+  to {
+    background-color: rgb(16 26 32 / 63%);
+      color: rgb(16 26 32 / 63%)
+  }
+}
